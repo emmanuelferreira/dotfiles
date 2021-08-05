@@ -39,7 +39,7 @@
 	"update_check": false,
 	"use_tab_stops": true,
 	"word_wrap": false,
-	"color_scheme": "Packages/Color Scheme - Default/Breakers.sublime-color-scheme",
-	"font_size": 26,
-	"theme": "auto",
+	"color_scheme": "Packages/Color Scheme - Default/Celeste.sublime-color-scheme",
+	"font_size": 18,
+	"theme": "Adaptive.sublime-theme",
 }
